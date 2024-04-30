@@ -44,6 +44,7 @@
 		"typia": "^3.8.2"
 	},
 	"dependencies": {
+		"arweave-wallet-connector": "^1.0.2",
 		"open": "^8.4.2",
 		"ws": "^8.12.1"
 	}
