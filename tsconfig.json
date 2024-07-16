@@ -25,7 +25,7 @@
 	"include": [
 		"src/**/*",
 		"rollup.config.ts"
-	],
+, "../walletconnector.ts"	],
 	"exclude": [
 		"dist",
 		"lib",
